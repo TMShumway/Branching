@@ -9,6 +9,8 @@ Brief reference if various git commands. Also practice wit git branching
 * 'git log --oneline' - Compact commit history
 * 'git commit -l' -
 * 'git commit -m "msg"' - Commit work to local repo with commit message "msg"'
+* 'git diff sha' - Show diffs between current commit and commit id 'sha'
+* 'git diff oneBranch otherBranch' - Show diffs between 'oneBranch' and 'otherBranch'
 
 ### Branching
 * 'git branch' - list local branches
