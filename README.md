@@ -1,6 +1,6 @@
 ## Git Cheat Sheet
 
-Brief reference if various git commands.
+Brief reference if various git commands. Also practice wit git branching
 
 
 * 'git init' - Initialize a local git repo in working directory
