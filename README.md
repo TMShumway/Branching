@@ -4,4 +4,4 @@
 * 'git status' - Show state of local repo
 * 'git log' - Log commit history
 * 'git log --oneline' - Compact commit history
-* 'git ' -
+* 'git commit -l' -
